@@ -1,6 +1,6 @@
-export const dynamic = 'force-dynamic';
 import css from "./page.module.css"
 
+export const dynamic = 'force-dynamic';
 export default function Home() {
     return (
         <main>
